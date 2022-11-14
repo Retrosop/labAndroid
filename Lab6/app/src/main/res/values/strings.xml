@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tuner</string>
+    <string name="init_time">0:00:00</string>
+    <string name="buttonstart">Start</string>
+    <string name="buttonstop">Stop</string>
+    <string name="buttonreset">Reset</string>
+
+
+</resources>
